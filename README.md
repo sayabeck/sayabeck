@@ -6,7 +6,7 @@
 * Have good analytical skills, easy to learn
 * Have a desire to learn new technologies
 
-> I already know:
+I already know:
 
    > * Swift (1)
    > * Principles of OOP, POP
