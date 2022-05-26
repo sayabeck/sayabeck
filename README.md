@@ -10,11 +10,11 @@ I already know:
 
    > * Swift (1)
    > * Principles of OOP, POP
-   > * Technology: UIKit, SwiftUI, Autolayout, Xib, GIT, GCD, NSOperation, SOLID, DRY, KISS, YAGNI
+   > * Technology: UIKit, Autolayout, Xib, GIT, GCD, NSOperation, SOLID, DRY, KISS, YAGNI
    > * Networking: URLSession, Alamofire
    > * Animations: CoreAnimation, Spring
    > * Data Storage: UserDefaults, CoreData, Realm, Firebase
-   > * Architectures: VIPER, MVC, Clean Architecture, MVP, MVVM,
-   > * Addiction managers: CocoaPods, Carthage
+   > * Architectures: MVC, Clean Architecture, MVP, MVVM
+   > * Addiction managers: CocoaPods
    > * Testing: TDD, Unit Testing
    > * Design: Sketch
